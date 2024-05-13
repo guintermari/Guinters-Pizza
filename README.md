@@ -10,9 +10,9 @@ Este projeto representou uma jornada incrível de aprendizado e autodesenvolvime
 
 Para construir o site da Guinter's Pizza, utilizei as seguintes linguagens e tecnologias:
 
-- HTML: Para estruturar o conteúdo do site e criar a base de cada página.
-- CSS: Para estilizar o site, tornando-o visualmente atraente e responsivo em diferentes dispositivos.
-- JavaScript: Para adicionar interatividade ao site, como menus drop-down, validação de formulários e animações suaves.
+- 🚀 HTML: Para estruturar o conteúdo do site e criar a base de cada página.
+- 🚀 CSS: Para estilizar o site, tornando-o visualmente atraente e responsivo em diferentes dispositivos.
+- 🚀 JavaScript: Para adicionar interatividade ao site, como menus drop-down, validação de formulários e animações suaves.
 
 ## Experiência e Aprendizado
 
