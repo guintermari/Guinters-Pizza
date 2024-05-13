@@ -1,4 +1,4 @@
-# Projeto Guinter's Pizza
+# Projeto Guinter's Pizza 🍕
 
 Este é o repositório do projeto Guinter's Pizza, um site que desenvolvi do zero que começou como atividade da faculdade e se tornou uma conquista pessoal. 
 
