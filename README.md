@@ -21,7 +21,7 @@ Estou incrivelmente feliz com o resultado final deste projeto. Ver o site da Gui
 
 ## Status
 
-O projeto está completo e funcional. Estou muito feliz com o resultado deste desafio de criar um site do zero pela primeira vez e ansioso para aplicar o que aprendi em futuros projetos.
+O projeto não está completo. Estou muito feliz com o resultado deste desafio de criar um site do zero pela primeira vez porém ainda será necessário a introdução do Javascript na página, que será meu próximo desafio.
 
 
 
